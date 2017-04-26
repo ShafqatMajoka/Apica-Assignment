@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Data" verbose="1" parallel="tests">
+    <groups>
+        <run>
+            <exclude name="broken"/>
+        </run>
+    </groups>
+    <test name="GUI Test">
+        <classes>
+            <class name="Apica.GUITests"/>
+        </classes>
+    </test>
+    <test name="API Test">
+        <classes>
+            <class name="Apica.APITest"/>
+        </classes>
+    </test>
+</suite>
