@@ -39,6 +39,6 @@ Step 1: Download and install IntelliJ IDEA Community edition using link https://
 
 Step 2: Open IntelliJ IDEA and import project as Maven project
 
-Step 4: Build project and run tests. You can run Test classes or methods as you like
+Step 3: Build project and run tests. You can run Test classes or methods as you like
         I suggest you to right click on file called (runtests.xml) in IntelliJ IDEA and run GUI and API tests parallel
 
