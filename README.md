@@ -24,7 +24,7 @@ Step 1: Download Apache Maven using link https://maven.apache.org/download.cgi
 
 Step 2: Unzip it to the folder you want to install Maven. Assume you unzip to this folder (C:\apache-maven-3.5.0)
 
-Step 3: Set the MAVEN_HOME Variable, it could point to C:\apache-maven-3.5.0\bin
+Step 3: Set the MAVEN_HOME Variable, it could point to C:\apache-maven-3.5.0
 
 Step 4: Include Maven's "bin" Directory in the System PATH. In my case, I include C:\apache-maven-3.5.0\bin
 
